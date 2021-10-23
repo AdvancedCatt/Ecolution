@@ -1,0 +1,6 @@
+name: Abilities
+main: com.adoneko.ecolution.Ecolution
+version: 0.1.0
+author: Adoneko
+api-version: 1.13
+depend: [Kotlin]
